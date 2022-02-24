@@ -8,5 +8,5 @@ Through this website, people will have information about the project and how to 
 
 This website will be developed during the DCI - Digital Career Institute Web Entwiclklung course.
 
-Developed from Marcio Alves \
+Developed by Marcio Alves and other generous collaborators \
 Berlin, february 2022
